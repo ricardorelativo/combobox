@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+    background: #ddd;
+    color: #333;
+}
